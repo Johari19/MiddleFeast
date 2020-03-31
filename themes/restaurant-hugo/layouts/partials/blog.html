@@ -9,7 +9,7 @@
 					<ul>
 						{{ $paginator := .Paginate .Site.RegularPages }}
 						{{ range $paginator.Pages }}
-						<a href="https://middlefeast.netlify.com/homestyle-chicken-pot-pie/">
+						<a href="{{.Permalink}}">
 						<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
 							<div class="blog-img">
 								<img src="{{ .Params.Image | absURL }}" alt="post-image" class="img-responsive">
