@@ -4,16 +4,16 @@ backend:
 media_folder: static/images/blog
 public_folder: /images/blog
 collections:
-  - name: 'post'
-    label: 'Blog'
-    folder: 'content'
+  - name: "post"
+    label: ""Blog"
+    folder: "content"
     create: true
     type: "post"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image'}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Image", name: "image", widget: "image"}
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
