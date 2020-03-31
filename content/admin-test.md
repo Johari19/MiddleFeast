@@ -1,7 +1,7 @@
 +++
 date = 2020-03-01T17:00:00Z
 description = "test"
-image = "content/images/blog/blog-img-5.jpg"
+image = "/images/blog/blog-img-3.jpg"
 title = "Admin Test"
 type = "post"
 
