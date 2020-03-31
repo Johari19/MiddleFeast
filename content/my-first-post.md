@@ -1,9 +1,10 @@
 ---
-title: "Red Pepper Miso Wings"
-date: 2018-12-12T04:28:21+06:00
+title: Red Pepper Miso Wings
+date: 2018-12-11T22:28:21.000Z
 image: images/blog/blog-img-1.jpg
-description: "this is meta description"
-type: "post"
+description: this is meta description
+type: post
 ---
+]dsadasdsad s ds a
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic. Deleniti eos ipsum, nihil ex id ipsa porro, accusantium, accusamus dignissimos harum, veniam culpa. Voluptate doloremque aspernatur neque vero tenetur numquam expedita ratione, sed, error exercitationem officia voluptatum molestiae quod impedit facilis, dolores laudantium quae rem! Rem obcaecati eum pariatur error quasi consequuntur repellendus aliquam vero perferendis, praesentium. Quas nulla, quae tempore omnis facere reiciendis, voluptatibus illum nemo consequuntur, magni voluptas doloremque eveniet quasi soluta porro sit cum? Alias a rerum natus, repellendus voluptas libero! Deleniti aut, sunt.
+![](/imgages/07246b3d30e010d6aa2e86b8eb5599b6.jpg)
