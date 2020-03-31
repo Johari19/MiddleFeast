@@ -142,3 +142,9 @@ link = "https://fb.com/themefisher"
 [[params.footer.socialLink]]
 icon = "instagram"
 link = "https://www.instagram.com/middlefeastssx/"
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
