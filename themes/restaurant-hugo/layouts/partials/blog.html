@@ -9,8 +9,8 @@
 					<ul>
 						{{ $paginator := .Paginate .Site.RegularPages }}
 						{{ range $paginator.Pages }}
+						<a href="https://middlefeast.netlify.com/homestyle-chicken-pot-pie/">
 						<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
-							<a href="https://middlefeast.netlify.com/homestyle-chicken-pot-pie/"></a>
 							<div class="blog-img">
 								<img src="{{ .Params.Image | absURL }}" alt="post-image" class="img-responsive">
 							</div>
@@ -19,6 +19,7 @@
 								<p>{{ .Summary }}</p>
 							</div>
 						</li>
+						</a>
 						{{ end }}
 					</ul>
 				</div>
