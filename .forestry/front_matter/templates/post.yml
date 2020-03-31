@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- content/bruh.md
 - content/test.md
