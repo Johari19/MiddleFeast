@@ -5,7 +5,7 @@ media_folder: static/images/blog
 public_folder: /images/blog
 collections:
   - name: "post"
-    label: ""Blog"
+    label: "Blog"
     folder: "content/"
     create: true
     type: "post"
