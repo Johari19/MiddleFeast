@@ -9,8 +9,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: images/blog
-public_path: "/images/blog"
+upload_dir: content/images/blog
+public_path: content/images/blog
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
