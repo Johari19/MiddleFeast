@@ -197,7 +197,9 @@ nav .block {
   margin-top: -85px;
   background: #fff;
   padding: 25px 40px;
-  background: rgba(255, 255, 255, 0.89);
+  background: rgba(255, 255, 255, 1);
+  border-color: black;
+  border: solid;
 }
 
 nav .block .navbar-default {
