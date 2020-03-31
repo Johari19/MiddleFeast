@@ -18,13 +18,11 @@ fields:
   name: type
   label: type
 - name: summary
-  type: textarea
-  default: ''
+  type: text
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Summary
+    required: true
+    max: '50'
+  label: summary
+  default: Click above to view the newest post!
 pages:
 - content/admin-test.md
