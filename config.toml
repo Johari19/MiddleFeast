@@ -3,8 +3,8 @@ baseURL = "https://middlefeast.netlify.com/"
 languageCode = "en-us"
 title = "Middle Feast"
 theme = "restaurant-hugo"
-summaryLength = "7"
-paginate = 6
+summaryLength = "5"
+paginate = 12
 
 ############################# Plugins ##############################
 
