@@ -19,3 +19,4 @@ fields:
   label: type
 pages:
 - content/admin-test.md
+- content/helloworld.md
