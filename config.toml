@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://festive-villani-44c636.netlify.com"
+baseURL = "https://middlefeast.netlify.com/"
 languageCode = "en-us"
 title = "Middle Feast"
 theme = "restaurant-hugo"
