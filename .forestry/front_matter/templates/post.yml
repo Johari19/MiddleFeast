@@ -17,12 +17,5 @@ fields:
 - type: text
   name: type
   label: type
-- name: summary
-  type: text
-  config:
-    required: true
-    max: '50'
-  label: summary
-  default: Click above to view the newest post!
 pages:
 - content/admin-test.md
