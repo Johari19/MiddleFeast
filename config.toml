@@ -73,7 +73,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "content/images/logo.png"
+logo = "images/logo.png"
 # meta data
 author = "Joseph Ambayec"
 description = "This is meta description"
@@ -113,22 +113,22 @@ content = "middlefeastssx@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-1.jpg"
+image = "images/slider/slider-img-1.jpg"
 
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-2.jpg"
+image = "images/slider/slider-img-2.jpg"
 
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-3.jpg"
+image = "images/slider/slider-img-3.jpg"
 
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-4.jpg"
+image = "images/slider/slider-img-4.jpg"
 
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-1.jpg"
+image = "images/slider/slider-img-1.jpg"
 
 [[params.footer.gallery]]
-image = "content/images/slider/slider-img-2.jpg"
+image = "images/slider/slider-img-2.jpg"
 
 ######################## Social Icon
 [[params.footer.socialLink]]
