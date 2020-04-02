@@ -315,6 +315,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
+  background-position-x: -75px;
 }
 
 #blog .block .heading {
@@ -968,8 +969,4 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-left: auto;
   margin-right: auto;
   display: block;
-}
-
-#blog.overlay {
-  background-position-x: -75px;
 }
