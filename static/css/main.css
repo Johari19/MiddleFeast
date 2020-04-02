@@ -970,6 +970,6 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   display: block;
 }
 
-#blog .overlay {
+#blog.overlay {
   background-position-x: -75px;
 }
