@@ -113,13 +113,13 @@ content = "middlefeastssx@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/AdobeStock_270670826_Preview.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/AdobeStock_176280617_Preview.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/slider/AdobeStock_309194835_Preview.jpg"
 
 [[params.footer.gallery]]
 image = "images/slider/slider-img-4.jpg"
