@@ -1,7 +1,7 @@
 ################## Hero area ##################
 heroArea:
   enable : true
-  bgImage : "images/slider/AdobeStock_280992106_Preview.jpg"
+  bgImage : "images/slider/AdobeStock_280992106_Preview.jpeg"
   overlay : true
 
 ################### Gallery ###################
@@ -15,8 +15,8 @@ gallery:
     - image : "images/slider/AdobeStock_309194835_Preview.jpg"
     - image : "images/slider/AdobeStock_309194835_Preview.jpg"
     - image : "images/slider/AdobeStock_176280617_Preview.jpg"
-    - image : "images/slider/AdobeStock_305412465_Preview.jpg"
-    - image : "images/slider/AdobeStock_280992106_Preview.jpg"
+
+
 
 ################ About #######################
 about:
