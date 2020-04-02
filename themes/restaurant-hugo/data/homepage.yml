@@ -67,8 +67,8 @@ subscription:
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Shareholders and customers can receive company updates via email!"
   #Mailchimp subscription configaration
-  formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  formAction : "https://middlefeast.us19.list-manage.com/subscribe/post?u=8074e29302da920916dac8951&amp;id=4c634af228"
+  formName : "mc-embedded-subscribe-form"
   overlay : true
 
 ################ Contact #######################
