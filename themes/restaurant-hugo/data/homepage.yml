@@ -28,13 +28,13 @@ about:
 blog:
   enable : true
   title : "Our Latest <span>Blog</span>"
-  bgImage : "images/blog/blog-bg.jpg"
+  bgImage : "images/slider/AdobeStock_305412465_Preview.jpg"
   overlay : true
 
 
 ################# food Menu ################
 pricing:
-  enable : true
+  enable : false
   title : "Our Easy <span>PRICE</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
