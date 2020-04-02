@@ -969,3 +969,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-right: auto;
   display: block;
 }
+
+#blog .overlay {
+  background-position-x: -75px;
+}
