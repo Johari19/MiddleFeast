@@ -962,3 +962,10 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   color: #fff;
   border-color: #FF4F02
 }
+
+#headimage {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
