@@ -21,7 +21,7 @@ about:
   enable : true
   image : "images/cooker-img.png"
   title : "Welcome to <span> Middle Feast!</span>"
-  description : "We are a group of young entrepreneurs, that are offering a variety of Middle Eastern foods. This company was made as part of our Loyola High School's Student Stock Exchenge. At this time, no actual sale will occur do to COVID-19 (see first post in blog). We will still continue to build this buisness, and maybe one day, actually serve."
+  description : "We are a group of young entrepreneurs, that are offering a variety of Middle Eastern foods. This company was made as part of Loyola High School's Student Stock Exchange. At this time, no actual sale will occur due to COVID-19 (see first post in blog). We will still continue to build this business, and maybe one day, actually serve."
 
 ################# Blog ######################
 blog:
