@@ -133,11 +133,11 @@ image = "images/slider/slider-img-2.jpg"
 ######################## Social Icon
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/Middle-Feast-102280831438825/"
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://www.facebook.com/Middle-Feast-102280831438825/"
+link = "https://twitter.com/middlefeastssx"
 
 [[params.footer.socialLink]]
 icon = "instagram"
