@@ -14,7 +14,7 @@ px      68    160    252    344    436    528    620    712    */
   }
 
   h3 {
-    font-color: green;
+    color: green;
   }
   /*--
     nav Start
@@ -143,7 +143,7 @@ px      68    160    252    */
     font-size: 28px;
   }
   h3 {
-    font-color: green;
+    color: red;
   }
   /*--
     custom heading Start
