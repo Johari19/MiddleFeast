@@ -974,18 +974,19 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 .instagram {
 	overflow: hidden;
-  background-color: #e0e0e0;
+  background-color: #fff;
   border-radius: 10px;
 }
 
 .instagram .wrap {
-	border-top: 1px solid #eee;
+	border-top: 1px solid #e0e0e0;
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1280px;
 	padding-bottom: 30px;
 	padding-top: 40px;
 	text-align: center;
+  border-radius: 10px;
 }
 
 .instagram .widget-title {
@@ -1027,8 +1028,4 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   font-style: oblique;
   padding-left: 10px;
   margin-bottom: 0;
-}
-
-.instagram .mainsec {
-  background-color: white;
 }

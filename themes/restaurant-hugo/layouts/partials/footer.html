@@ -38,12 +38,14 @@
 	<div class="col-md-4">
 				<div class="block wow fadeInLeft" data-wow-delay="1100ms">
 					<div class="gallary">
-						<h3>{{ with .Site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>
-						<div class="instagram" id="instafeed">
-						<h3 class="widget-title">Instagram Feed</h3>
-						<h4 class="sub">(Click to view images)</h4>
-						<div  class="mainsec">
-						</div>
+							<h3>{{ with .Site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>
+							<div class="wrap">
+								<h3 class="widget-title">Instagram Feed</h3>
+								<h4 class="sub">(Click to view images)</h4>
+								<div class="instagram" id="instafeed">
+								</div>
+							</div>
+
 					<!--	<ul class="gallery">
 							{{ range $.Site.Params.footer.gallery }}
 							<li><a href="{{ .image | absURL }}" class="venobox" data-gall="footerGallery"><img class="img-responsive"
