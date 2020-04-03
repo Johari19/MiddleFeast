@@ -1,7 +1,7 @@
 ################## Hero area ##################
 heroArea:
   enable : true
-  bgImage : "images/slider/AdobeStock_280992106_Preview.jpeg"
+  bgImage : "images/slider/AdobeStock_280992106.jpeg"
   overlay : true
 
 ################### Gallery ###################
@@ -9,10 +9,10 @@ gallery:
   enable : true
   title : "FEATURED WORKS"
   sliderItem:
-    - image : "images/slider/AdobeStock_176280617_Preview.jpg"
-    - image : "images/slider/AdobeStock_270670826_Preview.jpg"
-    - image : "images/slider/AdobeStock_309194835_Preview.jpg"
-    - image : "images/slider/AdobeStock_258858623_Preview.jpg"
+    - image : "images/slider/AdobeStock_176280617.jpeg"
+    - image : "images/slider/AdobeStock_270670826.jpeg"
+    - image : "images/slider/AdobeStock_309194835.jpeg"
+    - image : "images/slider/AdobeStock_258858623.jpeg"
 
 
 
@@ -27,7 +27,7 @@ about:
 blog:
   enable : true
   title : "Our Latest <span>Blog</span>"
-  bgImage : "images/slider/AdobeStock_305412465_Preview.jpg"
+  bgImage : "images/slider/AdobeStock_305412465.jpeg"
   overlay : true
 
 
@@ -61,7 +61,7 @@ pricing:
 ################### Subscription ################
 subscription:
   enable : true
-  bgImage : "images/slider/AdobeStock_255425068_Preview.jpg"
+  bgImage : "images/slider/AdobeStock_255425068.jpeg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Shareholders and customers can receive company updates via email!"
   #Mailchimp subscription configaration
