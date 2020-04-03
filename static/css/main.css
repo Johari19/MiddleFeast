@@ -111,7 +111,7 @@ a:active {
 
 .heading span {
   font-size: 45px;
-  color: #ff530a;
+  color: #f7931e;
   font-weight: 600;
 }
 
@@ -738,6 +738,10 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   -o-transition: .3s all;
   transition: .3s all;
 }
+.button:hover {
+  background-color: #e3871b;
+  cursor:pointer;
+ }
 
 /*--
     footer Start
@@ -1042,7 +1046,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
 #mc_embed_signup .clear {display: inline-block;} /* positions button horizontally in line with input */
 #mc_embed_signup .button {font-size: 13px; border: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; letter-spacing: .03em; color: #fff; background-color: #f7931e; box-sizing:border-box; height:50px; line-height:32px; padding:0 18px; display: inline-block; margin: 0; transition: all 0.23s ease-in-out 0s;}
-#mc_embed_signup .button:hover {background-color:#dd4300; cursor:pointer;}
+#mc_embed_signup .button:hover {background-color:#e3871b; cursor:pointer;}
 #mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
 #mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
 #mc_embed_signup #mce-error-response {display:none;}
