@@ -35,17 +35,18 @@
 				</div>
 			</div>
 			<!-- .col-md-4 close -->
-			<div class="col-md-4">
+				<div id="instafeed"></div>
+	<div class="col-md-4">
 				<div class="block wow fadeInLeft" data-wow-delay="1100ms">
 					<div class="gallary">
 						<h3>{{ with .Site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>
-						<ul class="gallery">
+					<!--	<ul class="gallery">
 							{{ range $.Site.Params.footer.gallery }}
 							<li><a href="{{ .image | absURL }}" class="venobox" data-gall="footerGallery"><img class="img-responsive"
 										src="{{ .image | absURL }}" alt=""></a></li>
 							{{ end }}
 						</ul>
-					</div>
+					</div> -->
 					<div class="social-media-link">
 						<h3>{{ with .Site.Params.footer.socialTitle }} {{ . | safeHTML }} {{ end }}</h3>
 						<ul>
@@ -73,7 +74,13 @@
 		</div>
 	</div>
 </footer>
-
+<script type="text/text/javascript" src="js/instafeed.js"></script>
+<script type="text/javascript">
+    var feed = new Instafeed({
+      accessToken: 'IGQVJYUm5MRWxjX3lSTy1xUmt4SmRfUDViRnFaTVZA2aFZAHQTIwSzFVenBJSlk3OGtIQjUyczdJYnFHVWk0Um5KSE9fSGZAjakN6V1pnQUdiTl91b0hIbXJXX0R1UHdBek1mT1lKT3dUQnlFQ1FzNno5cgZDZD'
+    });
+    feed.run();
+</script>
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"></script>
