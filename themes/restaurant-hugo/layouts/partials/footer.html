@@ -39,6 +39,7 @@
 				<div class="block wow fadeInLeft" data-wow-delay="1100ms">
 					<div class="gallary">
 						<h3>{{ with .Site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>
+						<div id="instafeed"></div>
 					<!--	<ul class="gallery">
 							{{ range $.Site.Params.footer.gallery }}
 							<li><a href="{{ .image | absURL }}" class="venobox" data-gall="footerGallery"><img class="img-responsive"
@@ -73,8 +74,6 @@
 		</div>
 	</div>
 </footer>
-<div id="instafeed"></div>
-
 <script type="text/javascript">
     var feed = new Instafeed({
       accessToken: 'IGQVJVQ1FNM0lFYXV6ZAkVpS1ZApZAzZA5QzV2VkQ1VElJM3VXWVRBT0FSNWxsWTNDVkpCSHRXNWFBM0J5MDRGMG92R0xCOUpuMXBsU3VDMU9DQ0xsZA0xXVmpRcWNCSVI0X1NvMUFrN19LMWJSeDAxQ3BvTwZDZD'
