@@ -22,7 +22,7 @@
 
 body {
   font-family: myfont;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
 }
 
@@ -111,7 +111,7 @@ a:active {
 
 .heading span {
   font-size: 45px;
-  color: #f7931e;
+  color: #ff530a;
   font-weight: 600;
 }
 
@@ -197,9 +197,7 @@ nav .block {
   margin-top: -85px;
   background: #fff;
   padding: 25px 40px;
-  background: rgba(255, 255, 255, 1);
-  border-color: black;
-  border: solid;
+  background: rgba(255, 255, 255, 0.89);
 }
 
 nav .block .navbar-default {
@@ -221,7 +219,7 @@ nav .block .navbar-default .navbar-nav>li>a {
   color: #2E2E2E;
   padding: 10px 0px;
   margin: 0px 15px;
-  font-size: 18px;
+  font-size: 15px;
   text-transform: uppercase;
 }
 
@@ -300,7 +298,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #about-us .block p {
   color: #959595;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 26px;
   padding: 40px 0px;
 }
@@ -315,7 +313,6 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  background-position-x: -75px;
 }
 
 #blog .block .heading {
@@ -343,7 +340,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #blog .block ul li:nth-child(2n) {
-  margin-right: .5%;
+  margin-right: 0;
 }
 
 #blog .block ul li:hover img {
@@ -386,7 +383,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   float: left;
   width: 50%;
   height: 100%;
-  background: white;
+  background: red;
   overflow: hidden;
 }
 
@@ -562,8 +559,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
-  color: #f7931e;
-  border: 1px solid #f7931e;
+  color: #FF4F02;
+  border: 1px solid #FF4F02;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
@@ -699,7 +696,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #contact-us .block form input {
   height: 48px;
-  border-radius: 3px;
+  border-radius: 0px;
   box-shadow: none;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
@@ -712,7 +709,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #contact-us .block form textarea {
   height: 140px;
-  border-radius: 3px;
+  border-radius: 0px;
   box-shadow: none;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
@@ -724,12 +721,12 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #contact-us .block button {
-  background: #f7931e;
+  background: #FF4F02;
   float: right;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
-  border-radius: 3px;
+  border-radius: 0px;
   border: 0px;
   width: 512px;
   height: 50px;
@@ -738,10 +735,6 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   -o-transition: .3s all;
   transition: .3s all;
 }
-#contact-us button:hover {
-  background-color: #e3871b;
-  cursor:pointer;
- }
 
 /*--
     footer Start
@@ -767,7 +760,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block h3 span {
-  color: #f7931e;
+  color: #FF4F02;
 }
 
 #footer .block .blog ul,
@@ -787,7 +780,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .gallary ul li h4 {
   padding-bottom: 10px;
   display: block;
-  color: #f7931e;
+  color: #FF4F02;
 }
 
 #footer .block .blog ul li h4 i,
@@ -801,7 +794,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .blog ul li h4 a,
 #footer .block .info ul li h4 a,
 #footer .block .gallary ul li h4 a {
-  color: #f7931e;
+  color: #FF4F02;
   font-size: 20px;
   font-weight: 600;
 }
@@ -820,7 +813,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link h3 span {
-  color: #f7931e;
+  color: #FF4F02;
 }
 
 #footer .block .social-media-link ul li {
@@ -844,7 +837,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link ul li a:hover {
-  background: #f7931e;
+  background: #FF4F02;
   color: #fff;
 }
 
@@ -866,7 +859,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer-bottom p a {
-  color: #f7931e;
+  color: #FF4F02;
 }
 
 /* slider */
@@ -906,7 +899,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .slick-dots li.slick-active button {
-  background: #f7931e;
+  background: #FF4F02;
 }
 
 .gallery-slider .slick-arrow {
@@ -949,11 +942,11 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
-  color: #f7931e
+  color: #FF4F02
 }
 
 .pagination .page-item .page-link:hover {
-  background: #f7931e;
+  background: #FF4F02;
   color: #fff
 }
 
@@ -963,11 +956,10 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .pagination .page-item.active .page-link {
-  background: #f7931e;
+  background: #FF4F02;
   color: #fff;
-  border-color: #f7931e
+  border-color: #FF4F02
 }
-
 #headimage {
   align-content: center;
   margin-left: auto;
