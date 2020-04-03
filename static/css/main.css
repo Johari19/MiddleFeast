@@ -699,7 +699,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #contact-us .block form input {
   height: 48px;
-  border-radius: 0px;
+  border-radius: 3px;
   box-shadow: none;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
@@ -712,7 +712,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #contact-us .block form textarea {
   height: 140px;
-  border-radius: 0px;
+  border-radius: 3px;
   box-shadow: none;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
@@ -729,7 +729,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
-  border-radius: 0px;
+  border-radius: 3px;
   border: 0px;
   width: 512px;
   height: 50px;
