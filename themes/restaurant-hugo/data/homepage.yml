@@ -20,8 +20,8 @@ gallery:
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  title : "Welcome to <span> Middle Feast!</span>"
+  description : "We are a group of young entrepreneurs, that are offering a variety of Middle Eastern foods. This company was made as part of our Loyola High School's Student Stock Exchenge. At this time, no actual sale will occur do to COVID-19 (see first post in blog). We will still continue to build this buisness, and maybe one day actually serve."
 
 ################# Blog ######################
 blog:
