@@ -976,6 +976,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 	overflow: hidden;
   background-color: #fff;
   border-radius: 10px;
+  margin: 10px;
 }
 
 .wrap {
@@ -993,11 +994,10 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 	font-family: 'Arial', serif;
 	font-size: 24px;
 	font-size: 2.4rem;
-	font-style: oblique;
-	margin-bottom: 20px;
+	font-style: normal;
 	padding-left: 10px;
-	padding-top: 10px;
-	margin-bottom: 0;
+	padding-top: 5px;
+	margin-bottom: 0px;
 }
 
 .instagram ul {
@@ -1017,15 +1017,15 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 	vertical-align: top;
 	width: 100px;
 	margin: 10px;
-	margin-top: 0px;
   border-radius: 10px;
 }
 
 .sub {
   font-family: 'Arial', serif;
-  font-size: 20px;
+  font-size: 14px;
   font-size: 2.4rem;
   font-style: oblique;
   padding-left: 10px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
