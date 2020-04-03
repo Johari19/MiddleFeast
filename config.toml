@@ -73,7 +73,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/mf.png"
 # meta data
 author = "Joseph Ambayec"
 description = "This is meta description"
