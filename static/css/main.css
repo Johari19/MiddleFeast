@@ -974,6 +974,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 .instagram {
 	overflow: hidden;
+  background-color: #e0e0e0;
+  border-radius: 10px;
 }
 
 .instagram .wrap {
@@ -987,11 +989,14 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .instagram .widget-title {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Arial', serif;
 	font-size: 24px;
 	font-size: 2.4rem;
-	font-style: italic;
+	font-style: oblique;
 	margin-bottom: 20px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-bottom: 0;
 }
 
 .instagram ul {
@@ -1007,7 +1012,9 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .instagram img {
-	height: 160px;
+	height: 100px;
 	vertical-align: top;
-	width: 160px;
+	width: 100px;
+	margin: 10px;
+	margin-top: 0px;
 }
