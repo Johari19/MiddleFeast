@@ -1394,6 +1394,17 @@ px      68    160    252    */
     width: 100%;
     float: inherit;
   }
+  #contact-us .block button {
+    background: #f7931e;
+    float: right;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 3px;
+    border: 0px;
+    width: 50%;
+    height: 50px;
+    padding-top: 15px;
   /*--
     footer Start
 --*/
