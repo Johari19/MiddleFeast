@@ -19,6 +19,7 @@ px      68    160    252    344    436    528    620    712    */
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 20px;
+    background-color: red;
   }
   nav .block .navbar-brand img {
     padding-left: 25px;
@@ -157,6 +158,7 @@ px      68    160    252    */
     background: -o-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
     background: -moz-linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
     background: linear-gradient(right, rgba(255, 255, 255, 0.6), #ffffff);
+    background-color: green;
   }
   nav .block .navbar-brand img {
     padding-left: 10px;
