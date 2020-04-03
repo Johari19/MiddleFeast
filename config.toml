@@ -78,7 +78,7 @@ logo = "images/mf.png"
 author = "Joseph Ambayec"
 description = "The homepage of Middle Feast"
 # google analitycs ID
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-138702256-2"
 # copyright
 copyright = "Copyright 2020 - All Rights Reserved. Designed and Developed By Joseph Ambayec and themefisher.com"
 
