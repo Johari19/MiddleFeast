@@ -73,7 +73,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/favicon.ico"
+logo = "images/mf.png"
 # meta data
 author = "Joseph Ambayec"
 description = "The homepage of Middle Feast"
