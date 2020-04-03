@@ -1022,7 +1022,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   border-radius: 10px;
 }
 
-.wrap .sub h4 {
+.wrap h4 {
   font-family: 'Arial', serif;
   font-size: 14px;
   font-style: oblique;
