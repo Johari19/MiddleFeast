@@ -61,7 +61,7 @@ pricing:
 ################### Subscription ################
 subscription:
   enable : true
-  bgImage : "images/subscribe-bg.jpg"
+  bgImage : "images/slider/AdobeStock_255425068_Preview.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
   description : "Shareholders and customers can receive company updates via email!"
   #Mailchimp subscription configaration
