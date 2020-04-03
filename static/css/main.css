@@ -738,7 +738,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   -o-transition: .3s all;
   transition: .3s all;
 }
-.button:hover {
+#contact-us .button:hover {
   background-color: #e3871b;
   cursor:pointer;
  }
