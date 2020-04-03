@@ -978,7 +978,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   border-radius: 10px;
 }
 
-.instagram .wrap {
+.wrap {
 	border-top: 1px solid #e0e0e0;
 	margin-left: auto;
 	margin-right: auto;
@@ -989,7 +989,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   border-radius: 10px;
 }
 
-.instagram .widget-title {
+.widget-title {
 	font-family: 'Arial', serif;
 	font-size: 24px;
 	font-size: 2.4rem;
@@ -1021,7 +1021,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   border-radius: 10px;
 }
 
-.instagram .sub {
+.sub {
   font-family: 'Arial', serif;
   font-size: 20px;
   font-size: 2.4rem;
