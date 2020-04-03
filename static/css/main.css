@@ -1310,6 +1310,7 @@ px      68    160    252    */
     float: none;
     width: 100%;
     padding: 20px 35px;
+    display: none;
   }
   #blog .block ul li .content-right:after {
     display: none;
