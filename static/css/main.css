@@ -1031,3 +1031,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   margin-top: 0px;
   text-align: center;
 }
+.navbar-brand>img {
+    display: block;
+    margin-top: -35px;
+}
