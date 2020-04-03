@@ -343,7 +343,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #blog .block ul li:nth-child(2n) {
-  margin-right: 0;
+  margin-right: .5%;
 }
 
 #blog .block ul li:hover img {
