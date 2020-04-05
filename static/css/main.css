@@ -1019,9 +1019,9 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .instagram img {
-	height: 100px;
+	max-height: 135px;
 	vertical-align: top;
-	width: 100px;
+	max-width: 200px;
 	margin: 10px;
   border-radius: 10px;
 }
