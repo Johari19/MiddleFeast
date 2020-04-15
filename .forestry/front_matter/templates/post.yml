@@ -19,4 +19,5 @@ fields:
   label: type
 pages:
 - content/first-post.md
+- content/our-code-of-ethics.md
 - content/survey.md
