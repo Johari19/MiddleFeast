@@ -1,7 +1,7 @@
 +++
 date = 2020-04-15T04:00:00Z
 description = "Code of Ethics"
-image = "/images/blog/mf.png"
+image = "/images/blog/AdobeStock_294963023.jpeg"
 title = "Our Code of Ethics"
 type = "post"
 
