@@ -21,7 +21,7 @@ about:
   enable : true
   image : "images/jord.png"
   title : "Welcome to <span> Middle Feast!</span>"
-  description : " Middle Feast is a local company created in the heart of Loyola High School by young, innovative, and caring men, our mission is to provide our community with immaculate authentic Shawarma and bring them together."
+  description : "Middle Feast is a local company created in the heart of Loyola High School by young, innovative, and caring men, our mission is to provide our community with immaculate authentic Shawarma and bring them together."
 
 ################# Blog ######################
 blog:
